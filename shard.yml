@@ -1,0 +1,13 @@
+name: crystal-play
+version: 0.1.0
+
+authors:
+  - Stephen Dolan <dolan.stephen1@gmail.com>
+
+targets:
+  crystal-play:
+    main: src/crystal-play.cr
+
+crystal: 1.0.0
+
+license: MIT
